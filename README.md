@@ -19,7 +19,7 @@ and churn risk of each segment.
 - 1,504 Hibernating customers are the largest segment by count but
   nearly lost — 186 days average since last purchase
 
-## Business Recommendations
+ Business Recommendations
 
 | Segment | Strategic Action Plan |
 |---|---|
@@ -43,5 +43,14 @@ and churn risk of each segment.
 - Seaborn
 - NumPy
 
-## How to Run
+ How to Run
 1. Install dependencies:
+   pip install pandas matplotlib seaborn numpy openpyxl
+2. Download the dataset from:
+    https://archive.uci.edu/dataset/352/online+retail
+3. Upload `Online Retail.xlsx` to your Colab session
+4. Run all cells in order
+
+ Data Source
+UCI Machine Learning Repository — Online Retail Dataset
+340,000+ transactions from a UK-based online retailer (2010-2011)
