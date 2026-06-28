@@ -20,14 +20,13 @@ and churn risk of each segment.
   nearly lost — 186 days average since last purchase
 
   Business Recommendations
-| Segment | Action |
-|---|---|
-| Champions | VIP rewards, early access, loyalty perks |
-| Loyal Customers | Upsell campaigns, bundle offers |
-| At Risk | Win-back emails, limited time discounts |
-| Can't Lose Them | Personal outreach, premium re-engagement |
-| Recent Customers | Onboarding emails, first repeat purchase incentive |
-| Hibernating | One final campaign, then reallocate budget |
+Customer Segment,Strategic Action Plan
+🏆 Champions,"VIP rewards, early access, loyalty perks"
+💎 Loyal Customers,"Upsell campaigns, bundle offers"
+⚠️ At Risk,"Win-back emails, limited time discounts"
+🚨 Can't Lose Them,"Personal outreach, premium re-engagement"
+🌱 Recent Customers,"Onboarding emails, first repeat purchase incentive"
+💤 Hibernating,"One final campaign, then reallocate budget"
 
  Project Structure
 - Phase 1 — Data cleaning (135,080 missing CustomerIDs, returns removal)
